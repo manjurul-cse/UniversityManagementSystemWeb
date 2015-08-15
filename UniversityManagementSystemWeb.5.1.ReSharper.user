@@ -1,0 +1,167 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="MsgLabel" priority="0" />
+      <Item value="if" priority="2" />
+      <Item value="true" priority="2" />
+      <Item value="aDepartment" priority="2" />
+      <Item value="else" priority="0" />
+      <Item value="throw" priority="0" />
+      <Item value="new" priority="7" />
+      <Item value="Exception" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="Department`0" priority="1" />
+      <Item value="departments" priority="1" />
+      <Item value="List&lt;Department&gt;" priority="2" />
+      <Item value="GetAllDepartment`0" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="departmentObj" priority="1" />
+      <Item value="return" priority="2" />
+      <Item value="false" priority="0" />
+      <Item value="msgLabel" priority="0" />
+      <Item value="exception" priority="0" />
+      <Item value="codeTextBox" priority="1" />
+      <Item value="nameTextBox" priority="1" />
+      <Item value="titleTextBox" priority="0" />
+      <Item value="creditTextBox" priority="0" />
+      <Item value="descriptionTextBox" priority="0" />
+      <Item value="addressTextBox" priority="0" />
+      <Item value="emailTextBox" priority="0" />
+      <Item value="contactNoTextBox" priority="0" />
+      <Item value="assignCreditTextBox" priority="0" />
+      <Item value="string" priority="4" />
+      <Item value="Semester`0" priority="5" />
+      <Item value="semester" priority="2" />
+      <Item value="aSemester" priority="2" />
+      <Item value="private" priority="0" />
+      <Item value="semesterReader" priority="0" />
+      <Item value="semesterDropDownList" priority="1" />
+      <Item value="departmentDropDownList" priority="0" />
+      <Item value="Designation`0" priority="6" />
+      <Item value="designationDropDownList" priority="1" />
+      <Item value="Designation" priority="0" />
+      <Item value="aDesignation" priority="2" />
+      <Item value="designationReader" priority="1" />
+      <Item value="designation" priority="0" />
+      <Item value="List&lt;Designation&gt;" priority="0" />
+      <Item value="List&lt;Semester&gt;" priority="0" />
+      <Item value="aViewResult" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Label">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UniversityManagementSystemWeb.DAL.DAO.Department">
+      <Item value="DepartmentCode" priority="1" />
+      <Item value="DepartmentName" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.HtmlControls.HtmlInputText">
+      <Item value="Value" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UniversityManagementSystemWeb.DAL.DAO.Semester">
+      <Item value="SemesterId" priority="0" />
+      <Item value="SemesterName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.DropDownList">
+      <Item value="DataTextField" priority="1" />
+      <Item value="DataValueField" priority="2" />
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UniversityManagementSystemWeb.DAL.DAO.Designation">
+      <Item value="Id" priority="0" />
+      <Item value="DesignationName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ListItem">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UniversityManagementSystemWeb.DAL.DAO.ViewResult">
+      <Item value="NoOfCompletedCourses" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/f:Site.Master" caret="390" fromTop="6" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:Manager/f:DepartmentManager.cs" caret="545" fromTop="7" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:DAL/d:DAO/f:Semester.cs" caret="210" fromTop="9" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:DAL/d:Gateway/f:CourseGateway.cs" caret="1817" fromTop="20" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:Manager/f:TeacherManager.cs" caret="489" fromTop="15" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:Manager/f:CourseManager.cs" caret="335" fromTop="12" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:DAL/d:DAO/f:Department.cs" caret="412" fromTop="18" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/f:Site.Master.cs" caret="345" fromTop="14" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:DAL/d:DAO/f:Course.cs" caret="0" fromTop="0" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:DAL/d:DAO/f:Designation.cs" caret="431" fromTop="19" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:DAL/d:Gateway/f:TeacherGateway.cs" caret="1097" fromTop="20" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:CourseEntry.aspx" caret="437" fromTop="0" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:TeacherEntry.aspx" caret="0" fromTop="0" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:ViewDepartment.aspx" caret="0" fromTop="0" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:DepartmentEntry.aspx" caret="0" fromTop="0" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:TeacherEntry.aspx.cs" caret="2197" fromTop="54" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:DepartmentEntry.aspx.cs" caret="1114" fromTop="32" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:CourseEntry.aspx.cs" caret="2082" fromTop="24" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/f:Web.config" caret="301" fromTop="10" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:View Result.aspx" caret="0" fromTop="0" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:ResetCourses.aspx" caret="0" fromTop="0" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:View Result.aspx.cs" caret="2248" fromTop="69" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:CourseAssignToTeacher.aspx" caret="1149" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:DAL/d:DAO/f:Designation.cs" caret="392" fromTop="16" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:DAL/d:Gateway/f:CourseGateway.cs" caret="894" fromTop="22" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:DAL/d:Gateway/f:CourseGateway.cs" caret="1007" fromTop="25" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:Manager/f:TeacherManager.cs" caret="359" fromTop="12" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:DAL/d:Gateway/f:TeacherGateway.cs" caret="398" fromTop="13" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:DAL/d:Gateway/f:TeacherGateway.cs" caret="936" fromTop="23" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:TeacherEntry.aspx.cs" caret="2009" fromTop="15" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:DAL/d:DAO/f:Department.cs" caret="209" fromTop="3" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:Manager/f:CourseManager.cs" caret="335" fromTop="12" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:CourseEntry.aspx.cs" caret="1949" fromTop="23" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:TeacherEntry.aspx.cs" caret="1945" fromTop="14" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:CourseEntry.aspx" caret="260" fromTop="2" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:CourseEntry.aspx.cs" caret="1949" fromTop="32" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:CourseEntry.aspx.cs" caret="1949" fromTop="10" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:TeacherEntry.aspx.cs" caret="1641" fromTop="24" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:TeacherEntry.aspx.cs" caret="1223" fromTop="24" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:CourseEntry.aspx.cs" caret="1949" fromTop="17" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:CourseEntry.aspx.cs" caret="1949" fromTop="22" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:CourseEntry.aspx.cs" caret="1949" fromTop="24" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:CourseEntry.aspx.cs" caret="1859" fromTop="24" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:TeacherEntry.aspx.cs" caret="987" fromTop="7" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:TeacherEntry.aspx.cs" caret="987" fromTop="12" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:TeacherEntry.aspx.cs" caret="987" fromTop="16" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:TeacherEntry.aspx.cs" caret="619" fromTop="12" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:CourseEntry.aspx.cs" caret="1859" fromTop="16" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:DepartmentEntry.aspx.cs" caret="732" fromTop="25" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:CourseEntry.aspx.cs" caret="1859" fromTop="23" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/f:Web.config" caret="301" fromTop="10" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:CourseAssignToTeacher.aspx" caret="0" fromTop="0" />
+      <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:View Result.aspx.cs" caret="3887" fromTop="26" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

@@ -1,0 +1,92 @@
+F:\oop\Assignment\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.dll
+F:\oop\Assignment\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.pdb
+F:\oop\Assignment\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\ResolveAssemblyReference.cache
+F:\oop\Assignment\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.dll
+F:\oop\Assignment\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.pdb
+D:\basic oop.net(01 &02)\ASP.NET\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.dll
+D:\basic oop.net(01 &02)\ASP.NET\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.pdb
+D:\basic oop.net(01 &02)\ASP.NET\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\ResolveAssemblyReference.cache
+D:\basic oop.net(01 &02)\ASP.NET\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.dll
+D:\basic oop.net(01 &02)\ASP.NET\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.pdb
+E:\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.dll
+E:\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.pdb
+E:\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\ResolveAssemblyReference.cache
+E:\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.dll
+E:\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.pdb
+D:\basic oop.net(01 &02)\ASP.NET\project\V3\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.dll
+D:\basic oop.net(01 &02)\ASP.NET\project\V3\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.pdb
+D:\basic oop.net(01 &02)\ASP.NET\project\V3\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\ResolveAssemblyReference.cache
+D:\basic oop.net(01 &02)\ASP.NET\project\V3\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.dll
+D:\basic oop.net(01 &02)\ASP.NET\project\V3\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.pdb
+F:\project\project\V4\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.dll
+F:\project\project\V4\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.pdb
+F:\project\project\V4\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\ResolveAssemblyReference.cache
+F:\project\project\V4\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.dll
+F:\project\project\V4\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.pdb
+F:\project\project\v5\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\ResolveAssemblyReference.cache
+F:\project\project\v5\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.dll
+F:\project\project\v5\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.pdb
+F:\project\project\v5\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.dll
+F:\project\project\v5\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.pdb
+F:\project\project\v5\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\itextsharp.pdb
+F:\project\project\v5\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\itextsharp.xml
+F:\project\project\v5\UMS\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\itextsharp.xtra.dll
+I:\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.dll
+I:\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.pdb
+I:\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\itextsharp.xtra.dll
+I:\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\itextsharp.pdb
+I:\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\itextsharp.xml
+I:\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\ResolveAssemblyReference.cache
+I:\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.dll
+I:\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.pdb
+D:\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.dll
+D:\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.pdb
+D:\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\itextsharp.pdb
+D:\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\itextsharp.xml
+D:\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\ResolveAssemblyReference.cache
+D:\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.dll
+D:\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.pdb
+E:\Basis\36th Batch\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.dll
+E:\Basis\36th Batch\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.pdb
+E:\Basis\36th Batch\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\itextsharp.pdb
+E:\Basis\36th Batch\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\itextsharp.xml
+E:\Basis\36th Batch\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.csprojResolveAssemblyReference.cache
+E:\Basis\36th Batch\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.dll
+E:\Basis\36th Batch\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.pdb
+E:\C#\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.dll
+E:\C#\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.pdb
+E:\C#\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\itextsharp.pdb
+E:\C#\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\itextsharp.xml
+E:\C#\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.dll
+E:\C#\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.pdb
+E:\My work\C#\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.dll
+E:\My work\C#\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.pdb
+E:\My work\C#\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\itextsharp.pdb
+E:\My work\C#\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\itextsharp.xml
+E:\My work\C#\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\ResolveAssemblyReference.cache
+E:\My work\C#\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.dll
+E:\My work\C#\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.pdb
+E:\ISD\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.dll
+E:\ISD\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.pdb
+E:\ISD\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\itextsharp.pdb
+E:\ISD\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\itextsharp.xml
+E:\ISD\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.dll
+E:\ISD\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.pdb
+E:\ISD\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.csprojResolveAssemblyReference.cache
+D:\ISD\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.dll.config
+D:\ISD\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.dll
+D:\ISD\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.pdb
+D:\ISD\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\itextsharp.pdb
+D:\ISD\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\itextsharp.xml
+D:\ISD\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.csprojResolveAssemblyReference.cache
+D:\ISD\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.dll
+D:\ISD\University Management\Final Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.pdb
+G:\Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.dll.config
+G:\Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.dll
+G:\Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\UniversityManagementSystemWeb.pdb
+G:\Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\itextsharp.pdb
+G:\Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\bin\itextsharp.xml
+G:\Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.csprojResolveAssemblyReference.cache
+G:\Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.dll
+G:\Project\UniversityManagementSystemWeb\UniversityManagementSystemWeb\obj\Debug\UniversityManagementSystemWeb.pdb

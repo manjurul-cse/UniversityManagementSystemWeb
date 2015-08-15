@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/UI/Index.aspx" title="HOME"  description="">
+
+
+    <siteMapNode url="" title="Department"  description="" >
+      <siteMapNode url="~/UI/DepartmentEntry.aspx" title="Department Entry"  description=""/>
+      <siteMapNode url="~/UI/ViewDepartment.aspx" title="View Department"  description="" />
+
+    </siteMapNode>
+
+
+
+    <siteMapNode url="" title="Student"  description="" >
+      <siteMapNode url="~/UI/StudentEntry.aspx" title="Student Registation"  description=""/>
+      <siteMapNode url="~/UI/CourseEnrollForStudent.aspx" title="Course Enroll For Student"  description="" />
+
+    </siteMapNode>
+
+
+    <siteMapNode url="" title="Teacher"  description="" >
+      <siteMapNode url="~/UI/TeacherEntry.aspx" title="Teacher Entry"  description="" />
+      <siteMapNode url="~/UI/CourseAssignToTeacher.aspx" title="Course Assign"  description="" />
+    </siteMapNode>
+
+
+
+
+    <siteMapNode url="" title="Course"  description="" >
+      <siteMapNode url=" ~/UI/CourseEntry.aspx" title="Course Entry"  description="" />
+      <siteMapNode url="~/UI/ScheduleClass.aspx" title="Schedule Class"  description=""/>
+      <siteMapNode url="~/UI/UnassignedCourse.aspx" title="Unassigned Course"  description="" />
+      <siteMapNode url="~/UI/UnscheduleCourse.aspx" title="Unscheduled Course"  description="" />
+      <siteMapNode url="~/UI/ViewCourse.aspx" title="ViewCourse"  description="" />
+      <siteMapNode url=" ~/UI/ResetCourses.aspx" title="Reset Course"  description="" />
+    </siteMapNode>
+
+
+    <siteMapNode url="" title="Result"  description="" >
+      <siteMapNode url="~/UI/View Result.aspx" title="View Result"  description="" />
+      <siteMapNode url="~/UI/Result.aspx" title="Result Entry"  description="" />
+    </siteMapNode>
+
+
+    <siteMapNode url="" title="About Us"  description="" >
+      <siteMapNode url="" title="Address"  description="" />
+    </siteMapNode>
+
+  </siteMapNode>
+</siteMap>

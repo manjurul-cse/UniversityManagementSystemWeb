@@ -1,0 +1,55 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:CourseAssignToTeacher.aspx" caret="0" fromTop="0" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:View Result.aspx.cs" caret="0" fromTop="0" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:TeacherEntry.aspx.cs" caret="0" fromTop="0" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:ScheduleClass.aspx.cs" caret="0" fromTop="0" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:Result.aspx.cs" caret="0" fromTop="0" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:CourseEntry.aspx.cs" caret="0" fromTop="0" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:CourseEnrollForStudent.aspx.cs" caret="0" fromTop="0" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:DepartmentEntry.aspx.cs" caret="0" fromTop="0" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:ViewDepartment.aspx.cs" caret="0" fromTop="0" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:ViewCourse.aspx.cs" caret="0" fromTop="0" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:UnscheduleCourse.aspx.cs" caret="0" fromTop="0" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:UnassignedCourse.aspx.cs" caret="0" fromTop="0" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:ResetCourses.aspx.cs" caret="0" fromTop="0" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:ResetCourses.aspx" caret="0" fromTop="0" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:CourseAssignToTeacher.aspx.cs" caret="0" fromTop="0" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:Manager/f:StudentManager.cs" caret="0" fromTop="0" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:Manager/f:ResultManager.cs" caret="0" fromTop="0" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/f:Site.Master.cs" caret="322" fromTop="10" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:Styles/f:Site.css" caret="168" fromTop="11" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:StudentEntry.aspx" caret="7680" fromTop="17" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:View Result.aspx" caret="5579" fromTop="23" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/f:Web.config" caret="1780" fromTop="18" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:DAL/d:DAO/f:Department.cs" caret="0" fromTop="0" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:DAL/d:Gateway/f:StudentGateway.cs" caret="5585" fromTop="8" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:DAL/d:Gateway/f:DepartmentGateway.cs" caret="1970" fromTop="24" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:Manager/f:DepartmentManager.cs" caret="0" fromTop="0" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:ViewDepartment.aspx" caret="699" fromTop="9" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:Index.aspx" caret="0" fromTop="0" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/f:Site.Master" caret="2819" fromTop="4" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:DAL/d:Gateway/f:ResultGateway.cs" caret="2551" fromTop="5" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:CourseEnrollForStudent.aspx.cs" caret="3964" fromTop="28" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:CourseEntry.aspx" caret="3853" fromTop="20" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:CourseEntry.aspx.cs" caret="1968" fromTop="16" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:Result.aspx" caret="3615" fromTop="21" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:Result.aspx.cs" caret="4197" fromTop="21" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:ScheduleClass.aspx" caret="6037" fromTop="17" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:ScheduleClass.aspx.cs" caret="3969" fromTop="9" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:TeacherEntry.aspx" caret="4650" fromTop="24" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:TeacherEntry.aspx.cs" caret="2577" fromTop="23" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:View Result.aspx" caret="5495" fromTop="24" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:View Result.aspx.cs" caret="766" fromTop="21" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:ViewCourse.aspx" caret="0" fromTop="0" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:DepartmentEntry.aspx" caret="3142" fromTop="47" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:StudentEntry.aspx" caret="7943" fromTop="17" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:StudentEntry.aspx.cs" caret="8784" fromTop="8" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:ShowStudentRegistationNoUI.aspx.cs" caret="871" fromTop="28" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/f:Web.config" caret="285" fromTop="10" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/d:UI/f:Index.aspx" caret="435" fromTop="4" />
+    <File id="4FB9BE61-F296-43B6-84A1-28476AF06658/f:Site.Master" caret="880" fromTop="4" />
+  </RecentEdits>
+</RecentFiles>

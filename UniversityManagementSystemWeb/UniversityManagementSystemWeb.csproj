@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4FB9BE61-F296-43B6-84A1-28476AF06658}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UniversityManagementSystemWeb</RootNamespace>
+    <AssemblyName>UniversityManagementSystemWeb</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>C:\Users\sandipon\Desktop\bin\Debug\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra">
+      <HintPath>C:\Users\sandipon\Desktop\Output\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Image\8.JPG" />
+    <Content Include="Image\background-layout-design-animated-web-wood-webdesign-layer-tutorials-8590.jpg" />
+    <Content Include="Image\banner.jpg" />
+    <Content Include="Image\Front-View-02.jpg" />
+    <Content Include="Image\header.jpg" />
+    <Content Include="Image\The University of Asia Pacific.jpg" />
+    <Content Include="Scripts\jquery-1.6.1.min.js" />
+    <Content Include="Scripts\jquery-ui-1.8.6.custom.min.js" />
+    <Content Include="Scripts\JScript1.js" />
+    <Content Include="Global.asax" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Styles\jquery-ui-1.8.6.custom.css" />
+    <Content Include="Styles\Site.css" />
+    <Content Include="UI\CourseAssignToTeacher.aspx" />
+    <Content Include="UI\CourseEnrollForStudent.aspx" />
+    <Content Include="UI\CourseEntry.aspx" />
+    <Content Include="UI\DepartmentEntry.aspx" />
+    <Content Include="UI\Index.aspx" />
+    <Content Include="UI\ResetCourses.aspx" />
+    <Content Include="UI\Result.aspx" />
+    <Content Include="UI\ScheduleClass.aspx" />
+    <Content Include="UI\ShowStudentRegistationNoUI.aspx" />
+    <Content Include="UI\StudentEntry.aspx" />
+    <Content Include="UI\TeacherEntry.aspx" />
+    <Content Include="UI\UnassignedCourse.aspx" />
+    <Content Include="UI\UnscheduleCourse.aspx" />
+    <Content Include="UI\View Result.aspx" />
+    <Content Include="UI\ViewCourse.aspx" />
+    <Content Include="UI\ViewDepartment.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAL\DAO\Building.cs" />
+    <Compile Include="DAL\DAO\Certificate.cs" />
+    <Compile Include="DAL\DAO\Course.cs" />
+    <Compile Include="DAL\DAO\Day.cs" />
+    <Compile Include="DAL\DAO\Department.cs" />
+    <Compile Include="DAL\DAO\Designation.cs" />
+    <Compile Include="DAL\DAO\Examination.cs" />
+    <Compile Include="DAL\DAO\GradePointCalculator.cs" />
+    <Compile Include="DAL\DAO\Room.cs" />
+    <Compile Include="DAL\DAO\Schedule.cs" />
+    <Compile Include="DAL\DAO\Semester.cs" />
+    <Compile Include="DAL\DAO\ShowCourse.cs" />
+    <Compile Include="DAL\DAO\Student.cs" />
+    <Compile Include="DAL\DAO\StudentCourse.cs" />
+    <Compile Include="DAL\DAO\StudentResult.cs" />
+    <Compile Include="DAL\DAO\Teacher.cs" />
+    <Compile Include="DAL\DAO\TeacherCourse.cs" />
+    <Compile Include="DAL\DAO\TeacherCredit.cs" />
+    <Compile Include="DAL\DAO\ViewCourse.cs" />
+    <Compile Include="DAL\DAO\ViewCourseGradeAndCredit.cs" />
+    <Compile Include="DAL\DAO\ViewResult.cs" />
+    <Compile Include="DAL\DAO\ViewStudentInformation.cs" />
+    <Compile Include="DAL\Gateway\CourseGateway.cs" />
+    <Compile Include="DAL\Gateway\DBGateway.cs" />
+    <Compile Include="DAL\Gateway\DepartmentGateway.cs" />
+    <Compile Include="DAL\Gateway\DesignationGateway.cs" />
+    <Compile Include="DAL\Gateway\ExaminationGateway.cs" />
+    <Compile Include="DAL\Gateway\ResultGateway.cs" />
+    <Compile Include="DAL\Gateway\ScheduleGateway.cs" />
+    <Compile Include="DAL\Gateway\SemesterGateway.cs" />
+    <Compile Include="DAL\Gateway\StudentGateway.cs" />
+    <Compile Include="DAL\Gateway\TeacherGateway.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\ResultManager.cs" />
+    <Compile Include="Manager\CourseManager.cs" />
+    <Compile Include="Manager\DepartmentManager.cs" />
+    <Compile Include="Manager\DesignationManager.cs" />
+    <Compile Include="Manager\ExaminationManager.cs" />
+    <Compile Include="Manager\ScheduleManager.cs" />
+    <Compile Include="Manager\SemesterManager.cs" />
+    <Compile Include="Manager\StudentManager.cs" />
+    <Compile Include="Manager\TeacherManager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="UI\CourseAssignToTeacher.aspx.cs">
+      <DependentUpon>CourseAssignToTeacher.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\CourseAssignToTeacher.aspx.designer.cs">
+      <DependentUpon>CourseAssignToTeacher.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\CourseEnrollForStudent.aspx.cs">
+      <DependentUpon>CourseEnrollForStudent.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\CourseEnrollForStudent.aspx.designer.cs">
+      <DependentUpon>CourseEnrollForStudent.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\CourseEntry.aspx.cs">
+      <DependentUpon>CourseEntry.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\CourseEntry.aspx.designer.cs">
+      <DependentUpon>CourseEntry.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DepartmentEntry.aspx.cs">
+      <DependentUpon>DepartmentEntry.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\DepartmentEntry.aspx.designer.cs">
+      <DependentUpon>DepartmentEntry.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ResetCourses.aspx.cs">
+      <DependentUpon>ResetCourses.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\ResetCourses.aspx.designer.cs">
+      <DependentUpon>ResetCourses.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Result.aspx.cs">
+      <DependentUpon>Result.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\Result.aspx.designer.cs">
+      <DependentUpon>Result.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ScheduleClass.aspx.cs">
+      <DependentUpon>ScheduleClass.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\ScheduleClass.aspx.designer.cs">
+      <DependentUpon>ScheduleClass.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ShowStudentRegistationNoUI.aspx.cs">
+      <DependentUpon>ShowStudentRegistationNoUI.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\ShowStudentRegistationNoUI.aspx.designer.cs">
+      <DependentUpon>ShowStudentRegistationNoUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\StudentEntry.aspx.cs">
+      <DependentUpon>StudentEntry.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\StudentEntry.aspx.designer.cs">
+      <DependentUpon>StudentEntry.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\TeacherEntry.aspx.cs">
+      <DependentUpon>TeacherEntry.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\TeacherEntry.aspx.designer.cs">
+      <DependentUpon>TeacherEntry.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\UnassignedCourse.aspx.cs">
+      <DependentUpon>UnassignedCourse.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\UnassignedCourse.aspx.designer.cs">
+      <DependentUpon>UnassignedCourse.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\UnscheduleCourse.aspx.cs">
+      <DependentUpon>UnscheduleCourse.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\UnscheduleCourse.aspx.designer.cs">
+      <DependentUpon>UnscheduleCourse.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\View Result.aspx.cs">
+      <DependentUpon>View Result.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\View Result.aspx.designer.cs">
+      <DependentUpon>View Result.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ViewCourse.aspx.cs">
+      <DependentUpon>ViewCourse.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\ViewCourse.aspx.designer.cs">
+      <DependentUpon>ViewCourse.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ViewDepartment.aspx.cs">
+      <DependentUpon>ViewDepartment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\ViewDepartment.aspx.designer.cs">
+      <DependentUpon>ViewDepartment.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Site.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Web.sitemap">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>2115</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,75 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="UniversityManagementSystemWeb.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title>University Course and Result Management System </title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        
+    </style>
+</head>
+<body>
+    <form id="Form1" runat="server">
+         <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+
+    <div style="padding-right: 158px; padding-left: 160px;">
+        <table width="100%" border="1" style="background-color: lightblue">
+            <tr>
+                <td colspan="3">
+                    <asp:Image ID="Image1" runat="server" ImageUrl="Image/header.jpg" Width="100%"
+                        Height="140Px" />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    
+                    
+                    
+                    
+<asp:Menu ID="Menu1" runat="server" BackColor="#FFFBD6" 
+        DataSourceID="SiteMapDataSource1" DynamicHorizontalOffset="2" 
+        Font-Names="Verdana" Font-Size="1em" ForeColor="#990000" 
+        Orientation="Horizontal" StaticDisplayLevels="2" StaticSubMenuIndent="10px">
+    <StaticSelectedStyle BackColor="#FFCC66" />
+    <StaticMenuItemStyle HorizontalPadding="33px" VerticalPadding="8px" />
+    <DynamicHoverStyle BackColor="#990000" ForeColor="White" />
+    <DynamicMenuStyle BackColor="#FFFBD6" />
+    <DynamicSelectedStyle BackColor="#FFCC66" />
+    <DynamicMenuItemStyle HorizontalPadding="33px" VerticalPadding="8px" />
+    <StaticHoverStyle BackColor="#990000" ForeColor="White" />
+    </asp:Menu>
+                    
+ </td>
+            </tr>
+            <tr>
+                <td  width="25%">
+                    <div align="Top">
+                        
+                                    <asp:TreeView ID="TreeView1" runat="server" DataSourceID="SiteMapDataSource1" 
+                        BorderColor="#996633">
+                    </asp:TreeView>     
+                    </div>
+    
+                  
+                </td>
+                <td width="55%">
+                    <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+                </td>
+                <td width="20%">
+                    The University of Asia Pacafic
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3" style="background-color: #3a4f63; color: #FFFFFF;" align="center">
+                    ©UAP
+                </td>
+            </tr>
+             </table>
+    </div>
+   
+    </form>
+</body>
+</html>
